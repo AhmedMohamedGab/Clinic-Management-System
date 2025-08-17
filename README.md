@@ -40,19 +40,21 @@ View Today’s Reservations
 
 📂 Project Structure
 
-├── a.exe            # Compiled executable (Windows)
+├── a.exe                      # Compiled executable (Windows)
 
-├── main.c           # Entry point of the program
+├── main.c                     # Entry point of the program
 
-├── program.c        # Implementation of system functions
+├── program.c                  # Implementation of system functions
 
-├── interface.h      # Function declarations (APIs)
+├── interface.h                # Function declarations (APIs)
 
-├── config.h         # Configuration settings
+├── config.h                   # Configuration settings
 
-├── std_types.h      # Standard data types definitions
+├── std_types.h                # Standard data types definitions
 
-└── README.md        # Project Documentation
+├── Patients_Database.txt      # Database for patients records
+
+└── README.md                  # Project Documentation
 
 
 🤝 Contributing
